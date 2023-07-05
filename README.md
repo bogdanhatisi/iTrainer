@@ -7,7 +7,7 @@
 <h1>Overview</h1>
 <h3>🍏 Exercise is a must for one's health, but to get all the benefits it must be performed correctly.</h3>
 <h3>✔️ That is where our solution, iTrainer helps you exercise, giving you real-time advice on your execution. It was developed using an already trained model (PoseNet) and calculating different angles using detected joints(knee, hip, ankle).</h3>
-<h3>👨‍💻 We could only implement the Squat in the given 3 days, but the aim of the app is to cover a wider range of exercises</h3>
+<h3>👨‍💻 We could only implement the Squat in the given 3 days, but the goal of the app is to cover a wider range of exercises</h3>
 <h3>🎤 If you are interested in our pitch deck, you can check it out here: https://docs.google.com/presentation/d/1B1vARr5nPZNzSCuHy5uaaAbg2QdQVpu1edQiKDECvGo/edit?usp=sharing</h3>
 
 
@@ -21,7 +21,7 @@
 
 
 <h1>Future development</h1>
-<h3>🚀 As seen in the GUI, we are planning to implement exercise recommendations along with more supported exercises</h3>
+<h3>🚀 As seen in the GUI, we are planning to implement exercise recommendations along with more supported exercises.</h3>
 
 <h1>Behind the scenes</h1>
 
