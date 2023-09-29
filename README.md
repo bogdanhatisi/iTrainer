@@ -30,5 +30,5 @@
 <img src="https://github.com/bogdanhatisi/iTrainer/blob/main/team-third-pic.png"/>
 
 
-<h1>Thank you for viewing our project, we hope you liked it!😊</h1>
+<h1>Thank you for viewing our project, we hope you liked it! 😊</h1>
 
